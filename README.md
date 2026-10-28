@@ -2,7 +2,7 @@
 
 ![Vanguard](preview.png)
 
-Dark navy and old-glory crimson for Omarchy. The wallpapers are the California coast, a coastal rocket, a night football stadium, the Grand Canyon, a storm flag, one car in front of the flag, engine ignition, and two brushed-steel plates.
+Dark navy and old-glory crimson for Omarchy. The wallpapers are the California coast, a coastal rocket, the Grand Canyon, a storm flag, one car in front of the flag, engine ignition, and two brushed-steel plates.
 
 ## Install
 
